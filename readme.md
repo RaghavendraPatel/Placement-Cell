@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Directory Structure](#directory-structure)
 - [Environment Variables](#environment-variables)
 - [API Reference](#api-reference)
 - [Run Locally](#run-locally)
@@ -20,6 +21,26 @@ Employee can perform following actions:
 - Employee can view report containing all students and interview details and download it in .csv format
 
 The app is hosted at [https://placement-cell-raghavendra.netlify.app/](https://placement-cell-raghavendra.netlify.app/)
+
+## Directory Structure
+
+```bash
+├── client
+│   ├── public
+│   └── src
+│       ├── components
+│       ├── pages
+│       ├── styles
+│       ├── App.js
+│       └── index.js
+└── server
+    ├── config
+    ├── controllers
+    ├── models
+    ├── routes
+    ├── index.js
+    └── package.json
+```
 
 ## Environment Variables
 
