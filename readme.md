@@ -1,5 +1,14 @@
 # Placement Cell
 
+## Table of Contents
+
+link: ## Introduction
+link: ## Environment Variables
+link: ## API Reference
+link: ## Run Locally
+
+## Introduction
+
 Placement Cell is a Full Stack application built using MongoDB, ExpressJS, NodeJs and ReactJS. This app maintains a record of students and interviews, which is exclusively maintained by the employee,
 
 Employee can perform following actions:
@@ -133,7 +142,14 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Placement-Cell
+```
+
+To add submodules
+
+```bash
+  git submodule init
+  git submodule update
 ```
 
 #### To start the server
