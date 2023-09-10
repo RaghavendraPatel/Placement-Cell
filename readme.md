@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Environment Variable](#environment-variables)
+- [Environment Variables](#environment-variables)
 - [API Reference](#api-reference)
 - [Run Locally](#run-locally)
 
