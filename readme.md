@@ -19,6 +19,8 @@ Employee can perform following actions:
 - Employee can allocate students to interview or deallocate for an interview.
 - Employee can view report containing all students and interview details and download it in .csv format
 
+The app is hosted at [https://placement-cell-raghavendra.netlify.app/](https://placement-cell-raghavendra.netlify.app/)
+
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file on server root directory.
