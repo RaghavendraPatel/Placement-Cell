@@ -2,24 +2,10 @@
 
 ## Table of Contents
 
-- [Introduction](#-Introduction)
-- [Environment Variable](#-Environment-Variable)
-- [API Reference](#-API-Reference)
-  - [Employee](#-Employee)
-    - [Create new Employee](#-Create-new-Employee)
-    - [Create employee session](#-Create-employee-session)
-    - [Destroy employee session](#-Destroy-employee-session)
-  - [Students](#-Students)
-    - [Get all Students](#-Get-all-Students)
-    - [Add new student details](#-Add-new-student-details)
-    - [Update student details](#-Update-student-details)
-    - [Delete student](#-Delete-student)
-  - [Interview](#-Interview)
-    - [Get all interviews](#-Get-all-interviews)
-    - [Create a new Interview](#-Create-a-new-Interview)
-    - [Update interview details](#-Update-interview-details)
-    - [Delete interview details](#-Delete-interview-details)
-- [Run Locally](#-Run-Locally)
+- [Introduction](#introduction)
+- [Environment Variable](#environment-variable)
+- [API Reference](#api-reference)
+- [Run Locally](#run-locally)
 
 ## Introduction
 
