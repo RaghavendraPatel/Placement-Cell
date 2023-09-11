@@ -22,6 +22,9 @@ Employee can perform following actions:
 
 The app is hosted at [https://placement-cell-raghavendra.netlify.app/](https://placement-cell-raghavendra.netlify.app/)
 
+server repo: https://github.com/RaghavendraPatel/Placement-Cell-Server.git
+client repo: https://github.com/RaghavendraPatel/Placement-cell-client.git
+
 ## Directory Structure
 
 ```bash
